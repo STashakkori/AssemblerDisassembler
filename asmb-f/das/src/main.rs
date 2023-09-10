@@ -1,3 +1,6 @@
+// AssemblerDisassembler
+// QVLx Labs
+// Authors: Matzr3lla, m0nZSt3r, $t@$h
 /*
 	 This disassembler will take hex file data cooresponding to one of the 
 	 following instruction set architectures (x86,x64,ARM(32), ARM(64), MIPS(32), MIPS(64),
