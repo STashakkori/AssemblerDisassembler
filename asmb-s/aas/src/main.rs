@@ -1,3 +1,7 @@
+// AssemblerDisassembler
+// QVLx Labs
+// Authors: Matzr3lla, m0nZSt3r, $t@$h
+
 use std::process::Command;
 use std::env;
 use std::io::{BufWriter, Write, Read};
