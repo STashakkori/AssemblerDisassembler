@@ -1,0 +1,5 @@
+ldi     r24, 0x00
+ldi     r25, 0x04
+ldi     r22, 0x10
+ldi     r23, 0x00
+sts     0x0601, r25
