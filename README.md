@@ -3,7 +3,7 @@ An assembler and disassembler for: x86, x64, ARM32, ARM64, MIPS32, MIPS64, PPC32
 
 QVLx Labs
 
-Authors: Matzr3lla, m0nZSt3r, $t@$h
+Authors: $t@$h, Matzr3lla, m0nZSt3r
 
 asmb-f writes output to files while asmb-s prints to std out
 
